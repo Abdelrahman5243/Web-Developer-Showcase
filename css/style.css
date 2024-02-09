@@ -21,8 +21,7 @@ body {
   padding: 0px;
   font-family: "Work Sans", sans-serif;
   max-width: 100vw;
-  overflow: hidden;
-  height: auto;
+  overflow-x: hidden;
 }
 
 .container {
